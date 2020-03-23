@@ -6,9 +6,9 @@
 	$atividades = array
 	(
 		'Concluido'   => '2000',
-		'Concluido_Vencido' => '1732',
+		'Concluido_com_Atraso' => '1732',
 		'Iniciado'   => '800',
-		'Iniciado_Vencido'     => '250', 
+		'Iniciado_com_Atraso'     => '250', 
 		'Pendente'   => '1320',
 		'Vencido'     => '565'
 	);
