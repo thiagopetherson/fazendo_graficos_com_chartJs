@@ -28,7 +28,7 @@ jQuery: https://jquery.com/
 ChartJs: https://www.chartjs.org/
 
 
-ESPERO QUE TENHAM UM BOM USO !
+ESPERO QUE TENHAM UM BOM USO E QUE A FORÇA ESTEJA COM VOCÊS!
 
 
 
